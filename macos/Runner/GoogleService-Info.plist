@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>640423159365-50niirenlgebq6eprs6rmgfcr59f6huq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.640423159365-50niirenlgebq6eprs6rmgfcr59f6huq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCZPxDljKsPiHfd2BzLOi5dkKP21xT3uRs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>640423159365</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.unimy.book4cut</string>
+	<key>PROJECT_ID</key>
+	<string>internshipapp-320fe</string>
+	<key>STORAGE_BUCKET</key>
+	<string>internshipapp-320fe.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:640423159365:ios:4089960b3afcd470e9a52c</string>
+	<key>DATABASE_URL</key>
+	<string>https://internshipapp-320fe-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "866406182160",
+    "project_id": "book4cut-63ce5",
+    "storage_bucket": "book4cut-63ce5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866406182160:android:33c30143e96ce12bc48995",
+        "android_client_info": {
+          "package_name": "com.unimy.book4cut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866406182160-mdmeh1ud308sfh8efn88f10591hv9bnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBYdP1DdmAEYeXd9nn8nnq00QqyHw0Vd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866406182160-mdmeh1ud308sfh8efn88f10591hv9bnk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "866406182160-aa69hs6h0bs6j1n144foh7ols1qvafjr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unimy.book4cut"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
